@@ -1,0 +1,29 @@
+﻿#cabecera1{
+background-color: blue;
+}
+
+#menuprincipal{
+	background-color: red;
+}
+#barralateral{
+	background-color: yellow;
+	float: left;
+	height: 1250px;
+}
+
+#contenidoprincipal{
+	background-color: green;
+	margin-left: 220px;
+	padding-left: 15px;
+	padding-top: 15px;
+}
+#piedepagina{
+	background-color: tomato;
+	clear: both; 
+	margin-top: 50px;
+}
+
+li{
+	background-color: yellow;
+	display: inline;
+}
